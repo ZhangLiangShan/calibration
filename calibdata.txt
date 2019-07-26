@@ -1,0 +1,14 @@
+D:\vs_code\opencv_picture\calibration\picture\chess1.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess2.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess3.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess4.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess5.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess6.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess7.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess8.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess9.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess10.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess11.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess12.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess13.bmp
+D:\vs_code\opencv_picture\calibration\picture\chess14.bmp
